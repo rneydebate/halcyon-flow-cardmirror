@@ -1,0 +1,8 @@
+{
+  "id": "halcyon-flow",
+  "name": "Halcyon Flow",
+  "version": "1.2.7",
+  "description": "Pastes cards sent from Halcyon Flow into the document you are working in, keeping highlighting and structure.",
+  "author": "Halcyon",
+  "apiVersion": 1
+}
